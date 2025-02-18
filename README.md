@@ -2,7 +2,8 @@
 
 This is a simple yet functional Leads Tracker application that demonstrates the use of HTML, CSS, and JavaScript, integrated with Firebase Realtime Database. It allows users to save, display, and delete URLs dynamically, showcasing clean code practices with a focus on user interaction, DOM manipulation, and database integration.
 
-![67b48641ed76f285013861](https://github.com/user-attachments/assets/47032e3c-bde4-46ad-83ab-c26ea4bc1990)
+![Screen Recording 2025-02-12 at 18-40-56_4](https://github.com/user-attachments/assets/86dea394-55b8-44cb-b359-491f2a5ee8a1)
+
 
 ## Table of Contents
 
