@@ -5,10 +5,10 @@ import { getDatabase,
          onValue,
          remove } from "https://www.gstatic.com/firebasejs/10.8.1/firebase-database.js"
 
-const firebaseConfig = {
-    databaseURL: https: '//leads-tracker-app-7bcad-default-rtdb.europe-west1.firebasedatabase.app/'
-}
-
+         const firebaseConfig = {
+            databaseURL: "https://leads-tracker-app-7bcad-default-rtdb.europe-west1.firebasedatabase.app/"
+        }
+        
 const app = initializeApp(firebaseConfig)
 const database = getDatabase(app)
 const referenceInDB = ref(database, "leads")
