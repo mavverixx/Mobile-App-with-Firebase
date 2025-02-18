@@ -1,4 +1,4 @@
-# Leads Tracker
+# Leads Tracker Mobile App made with Firebase
 
 This is a simple yet functional Leads Tracker application that demonstrates the use of HTML, CSS, and JavaScript, integrated with Firebase Realtime Database. It allows users to save, display, and delete URLs dynamically, showcasing clean code practices with a focus on user interaction, DOM manipulation, and database integration.
 
